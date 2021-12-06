@@ -1,0 +1,10 @@
+추천 시스템
+
+1. 목적 (프로젝트 관련 설명) [1분]
+2. 개요 (왜 추천 시스템을 사용하는가) [1분]
+3. 활용 가능성 (Netflix, 유튜브, 쇼핑몰, etc) [5분]
+4. 방식 (CF : user-based, item-based, || SVD 활용 방법) [5분]
+ - CF : (user based, item based) ->  ????? (precision, recall?)
+ - model based : (SVD or matrix factorization) -> 표 색 칠하기 (heatmap으로 표현)
+
+surprise 사용법?????
